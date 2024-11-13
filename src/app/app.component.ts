@@ -14,7 +14,7 @@ import { InvestmentResult } from './investment-results/investment-results.model'
   styleUrl: './app.component.css',
 })
 export class AppComponent {
-  // resultData?:InvestmentResult[];
+  // resultData?:InvestmentResult[];//
   // resultData = signal<InvestmentResult[] | undefined>(undefined);
   
  
